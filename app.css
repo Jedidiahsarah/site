@@ -1,0 +1,39 @@
+h1{
+    color: purple;
+    font-size: 56px;
+    text-align: center;
+            }
+            img{
+                border-style:solid;
+                border-color:purple;
+                border-width: 3px;
+                border-radius: 50%;
+               
+            }
+            h2{
+                color:salmon;
+            }
+            article{
+                border: 2px solid ghostwhite;
+                margin: 5px;
+                background-color:oldlace;
+                border-radius: 20px; 
+                padding: 15px;
+                
+        
+            
+            }
+            header{
+                background-color:gold;
+                border-radius: 15px;
+                margin-top: 10px;
+             
+            }
+            nav{
+            background-color:rgb(211, 183, 25);
+            margin-bottom: 10px;
+            
+            }
+            li{
+                list-style-type: none;
+            }
